@@ -109,5 +109,3 @@ platforms:
     name: "知乎"
   - id: "hupu"
     name: "虎扑"
-  - id: "kuaishou"
-    name: "快手"
